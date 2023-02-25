@@ -1,2 +1,2 @@
 # linear-regression
-Implementation of simple linear regression (SLR) completed in a Jupyter Notebook.
+Implementation of simple linear regression (SLR) completed using the Gradient Descent Algorithm in a Jupyter Notebook.
